@@ -1,6 +1,6 @@
 This repository contains the R scripts for the following paper:
 
-Loh, W. W. (In press). Estimating curvilinear time-varying treatment effects: combining g-estimation of structural nested mean models with time-varying effect models for longitudinal causal inference. *Psychological Methods.*
+Loh, W. W. (In press). Estimating curvilinear time-varying treatment effects: combining g-estimation of structural nested mean models with time-varying effect models for longitudinal causal inference. *Psychological Methods.* https://osf.io/preprints/psyarxiv/7grc3
 
 There are two R scripts with the main functions for carrying out the estimation procedures described in the paper:
 - **time_varying-helper_funs.R**: standard g-estimation focusing on an end-of-study outcome
